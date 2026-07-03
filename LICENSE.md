@@ -1,4 +1,4 @@
-# 
+# 开源 Advanced SystemCare 插件 Mac OS版 | 原生 Advanced SystemCare 插件 PC Windows版。集成 格式转换 和 安全审计，跨平台性能最大化。
 
 
 
